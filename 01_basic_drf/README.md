@@ -49,3 +49,4 @@ admin.site.register(Article)
             "django": true
         }
 ```
+
